@@ -10,7 +10,7 @@
     This repository is a simple cypress study based on a Udemy course.
     <br />
     <br />
-    <a href="https://www.udemy.com/course/testes-automatizados-com-cypress-intermediario"><strong>Watch the course »</strong></a>
+    <a href="https://www.udemy.com/course/testes-automatizados-com-cypress-basico"><strong>Watch the course »</strong></a>
     <br />
     <br />
     <a href="https://br.linkedin.com/in/matheus-alvarenga-de-oliveira">My LinkedIn Profile</a>
